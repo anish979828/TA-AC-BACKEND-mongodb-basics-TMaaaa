@@ -5,7 +5,7 @@ Write command to
 - List collections from a database.
 // show collections
 - create a new collection in your country database which you created recently.
-//
+//db.createCollection("newCollection")
 
 Write code to:-
 
