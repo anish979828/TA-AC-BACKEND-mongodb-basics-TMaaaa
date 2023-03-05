@@ -9,5 +9,9 @@
 // Write code to
 
 // - create a database of your country name.
+// use India
+
 // - check list of databases to see newly created database.
+// use dws
 // - check which database you are currently connected to ?
+//db
